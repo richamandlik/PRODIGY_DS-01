@@ -1,7 +1,7 @@
 # PRODIGY_DS-01
 
-**📊 Population Distribution Visualization
-**
+📊 Population Distribution Visualization
+
 Overview
 
 This project involves creating a bar chart or histogram to visualize the distribution of a selected variable (categorical or continuous) from a global population dataset. The data was sourced from the World Bank, which provides total population statistics by country and year.
